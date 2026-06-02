@@ -1,178 +1,152 @@
-# Hey there! 👋 I'm Sheik Iqbal Meera John
+<div align="center">
 
-![Data Science Banner](https://img.shields.io/badge/Data%20Science-Machine%20Learning-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-Iqbalmeerajohn-black?style=for-the-badge&logo=github)
+# Sheik Iqbal Meera John
 
----
+**Software Engineer building AI-powered and data-driven products.**
 
-## 🎯 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
+[![GitHub](https://img.shields.io/badge/GitHub-Iqbalmeerajohn-181717?style=flat&logo=github)](https://github.com/Iqbalmeerajohn)
+[![Email](https://img.shields.io/badge/Email-iqbalmeerajohn1%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
 
-- **Data Science Enthusiast** | **ML Engineer** | **Python Developer**
-- 📍 **Location:** Visakhapatnam, Andhra Pradesh, India
-- 🎓 **GITAM Deemed University Student** (Computer Science Engineering - Data Science)
-- 🚀 **CognoRise InfoTech Intern** (July 2024) - Built 3 end-to-end ML projects
-- 💡 Passionate about solving real-world problems with Machine Learning
-- 🔍 Specialized in EDA, Feature Engineering, and Model Optimization
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 1️⃣ **Cinema Tickets - Exploratory Data Analysis**
-```
-📊 Analyzed booking patterns and revenue trends
-📈 Delivered actionable business insights
-🎬 Analyzed 10K+ cinema bookings
-```
-- **Technologies:** Python, Pandas, Matplotlib, Seaborn, Plotly
-- **Key Skills:** EDA, Data Visualization, Business Analytics
-- **Repository:** [🔗 View Project](https://github.com/Iqbalmeerajohn/Cong-Data-Science-task)
+I'm a Computer Science (Data Science) graduate from **GITAM University (2026)** who builds full-stack, AI-powered products end to end — from React/Next.js frontends and FastAPI backends to deployed machine learning systems.
 
-### 2️⃣ **Credit Card Fraud Detection (XGBoost + SMOTE)**
-```
-🛡️ Built classification model with SMOTE for class imbalance
-⚡ Achieved 94% Precision | 92% Recall | 0.96 ROC-AUC
-💯 Detects 92% of fraudulent transactions
-```
-- **Model:** XGBoost with SMOTE oversampling
-- **Technologies:** Scikit-learn, XGBoost, Imbalanced-learn
-- **Key Skills:** Class Imbalance Handling, Hyperparameter Tuning, Model Evaluation
-- **Repository:** [🔗 View Project](https://github.com/Iqbalmeerajohn/Cong-Data-Science-task)
+My work sits at the intersection of **Software Engineering**, **AI/ML**, and **Product Thinking**. I don't just train models — I build the products around them.
 
-### 3️⃣ **Superstore Sales Prediction (Time-Series)**
-```
-📈 Time-series forecasting with ARIMA & XGBoost
-🎯 Achieved 85%+ prediction accuracy
-📊 Enabled inventory optimization & revenue planning
-```
-- **Models:** ARIMA, Prophet, XGBoost ensemble
-- **Technologies:** Statsmodels, Facebook Prophet, Feature Engineering
-- **Key Skills:** Time-Series Analysis, Feature Engineering, Ensemble Methods
-- **Repository:** [🔗 View Project](https://github.com/Iqbalmeerajohn/Cong-Data-Science-task)
+- 🏗️ **Building:** KAFA — a full-stack SaaS cafe platform (React, Next.js, Vercel)
+- 🧠 **Researching:** Speech Emotion Recognition using Federated Learning + Multi-Head Attention (92% accuracy)
+- 📊 **Analysing:** Business intelligence dashboards across churn, diversity, and operations
+- 📍 **Location:** Andhra Pradesh, India &nbsp;|&nbsp; Open to remote & relocation
+
+---
+
+## 📦 Flagship Project — KAFA Cafe Digital Platform
+
+> *A real-world cafe platform evolving into a multi-tenant SaaS solution.*
+
+**KAFA** is a production-deployed cafe platform I designed, built, and shipped — not a college template.
+
+| Layer | Stack |
+|-------|-------|
+| Frontend | React.js, Next.js, Tailwind CSS |
+| Deployment | Vercel (CI/CD) |
+| Design | Mobile-first, responsive |
+
+**Current Features:**
+- ✅ Responsive website with mobile-first design
+- ✅ Digital menu presentation system
+- ✅ Reservation workflow
+- ✅ Production deployment on Vercel
+
+**SaaS Roadmap:**
+- 🔲 QR-based ordering system
+- 🔲 Customer & Admin dashboards
+- 🔲 Analytics and reporting layer
+- 🔲 AI assistant for order recommendations
+- 🔲 Multi-cafe SaaS platform architecture
 
 ---
 
 ## 💻 Tech Stack
 
-### 🐍 **Languages**
-- Python | SQL
+**Languages**
 
-### 📚 **Data Science & ML**
-![Pandas](https://img.shields.io/badge/Pandas-1.5.3-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-1.24.3-013243?style=flat&logo=numpy)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.3.0-F7931E?style=flat)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.0.0-FA5202?style=flat)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14.0-blue?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 📊 **Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-0C55A1?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-5.15.0-3F4F75?style=flat)
+**Frontend & Full Stack**
 
-### 🛠️ **Tools & Platforms**
-![Jupyter](https://img.shields.io/badge/Jupyter-Lab-F37726?style=flat&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-2.40.0-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Iqbalmeerajohn-181717?style=flat&logo=github)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
----
+**AI / Machine Learning**
 
-## 📊 GitHub Stats
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![librosa](https://img.shields.io/badge/librosa-Audio%20ML-blueviolet?style=flat)
 
-<div align="center">
+**Data & Analytics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqbalmeerajohn&show_icons=true&theme=tokyonight&hide_border=true)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-FA5202?style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbalmeerajohn&layout=compact&theme=tokyonight&hide_border=true)
+**Tools & Platforms**
 
-</div>
-
----
-
-## 🎓 Key Skills & Expertise
-
-✅ **Machine Learning**
-- Model Development & Training
-- Hyperparameter Tuning (Grid Search, Random Search)
-- Ensemble Methods (XGBoost, Random Forest, Gradient Boosting)
-- Class Imbalance Handling (SMOTE, Oversampling)
-
-✅ **Data Science**
-- Exploratory Data Analysis (EDA)
-- Feature Engineering & Selection
-- Data Cleaning & Preprocessing
-- Statistical Analysis
-
-✅ **Specialized Skills**
-- Time Series Analysis & Forecasting (ARIMA, Prophet)
-- Binary & Multi-class Classification
-- Regression Analysis
-- Model Evaluation & Performance Metrics
-
-✅ **Development Practices**
-- Version Control with Git/GitHub
-- Clean, Well-Documented Code
-- Jupyter Notebook Proficiency
-- Production-Ready Code
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📈 Currently Learning
+## 🚀 Projects
 
-🔥 **Advanced Deep Learning** - Neural Networks, TensorFlow, PyTorch
-🚀 **Production ML Systems** - Model Deployment, MLOps
-☁️ **Cloud ML Platforms** - Google Cloud AI, AWS SageMaker
-📦 **Model Optimization** - ONNX, Model Compression, Quantization
+### [KAFA Cafe Digital Platform](https://github.com/Iqbalmeerajohn/kafa-cafe-resto) &nbsp; `Full Stack` `SaaS`
+Production-deployed cafe platform built with React, Next.js, Tailwind CSS, and Vercel. Evolving into a multi-tenant SaaS solution with QR ordering, dashboards, and AI features.
 
----
+### [Speech Emotion Recognition](https://github.com/Iqbalmeerajohn/emotion-recognition-speech) &nbsp; `AI/ML` `Deep Learning` `FastAPI`
+92% accuracy on RAVDESS. Multi-Head Attention + Federated Learning. FastAPI backend + Streamlit frontend. **Top 30 / 350 projects at GITAM tech poster presentation.**
 
-## 🤝 Connect With Me
+### [Retail Sales Prediction & ML Portfolio](https://github.com/Iqbalmeerajohn/Cong-Data-Science-task) &nbsp; `Machine Learning` `Python`
+End-to-end ML projects: Retail Sales Forecasting (85%+ accuracy), Credit Card Fraud Detection (0.96 ROC-AUC), Cinema EDA on 10K+ records.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheik%20Iqbal%20Meera%20John-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
-[![GitHub](https://img.shields.io/badge/GitHub-Iqbalmeerajohn-181717?style=for-the-badge&logo=github)](https://github.com/Iqbalmeerajohn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Science-blue?style=for-the-badge)](https://github.com/Iqbalmeerajohn/Cong-Data-Science-task)
-
-</div>
+### [Analytics Dashboard Portfolio](https://github.com/Iqbalmeerajohn/analytics-dashboard-portfolio) &nbsp; `Power BI` `Business Intelligence`
+Interactive Power BI dashboards for Customer Churn, Diversity & Inclusion, and Call Center Performance — with DAX measures, KPI design, and Power Query ETL.
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🏅 Highlights
 
-- 🔬 **Cong-Data-Science-Task** - 3 end-to-end ML projects with full documentation
-- 📚 Building a comprehensive data science learning repository
-- 🚀 Creating production-grade ML pipelines
-- 📖 Writing data science articles and tutorials
-
----
-
-## 💡 Fun Facts About Me
-
-- 🎯 Believe in "Learn by doing" philosophy
-- 🔍 Love exploring data and finding hidden patterns
-- 📊 Passionate about turning data into actionable insights
-- 🤝 Always open to collaboration and learning from others
-- 💪 Committed to continuous improvement and growth
+- 🧠 **92% accuracy** — Speech Emotion Recognition (Multi-Head Attention + Federated Learning)
+- 🏆 **Top 30 / ~350** — GITAM University Technical Poster Presentation 2026
+- 🔐 **0.96 ROC-AUC** — Credit Card Fraud Detection with SMOTE + XGBoost
+- 🏗️ **Production deployed** — KAFA Cafe Platform live on Vercel
+- 🏢 **J.P. Morgan** Software Engineering Virtual Experience (Forage)
+- ☁️ **AWS** Data Engineering Virtual Internship (EduSkills)
 
 ---
 
-## 📞 Let's Work Together!
+## 📚 Education & Certifications
 
-I'm always interested in:
-- 💼 Data Science Projects & Collaborations
-- 🎓 Internship Opportunities
-- 📚 Knowledge Sharing & Learning
-- 🚀 Exciting ML Challenges
+**B.Tech Computer Science & Engineering (Data Science)**  
+GITAM Deemed University, Visakhapatnam — 2022–2026
 
-**Feel free to reach out on LinkedIn or check out my projects below! 👇**
+| Certification | Issuer |
+|---------------|--------|
+| AWS Data Engineering Virtual Internship | EduSkills |
+| Alteryx Data Analytics & Process Automation | EduSkills |
+| Software Engineering Job Simulation | J.P. Morgan Chase & Co. (Forage) |
+| Python Data Structures | University of Michigan |
+
+---
+
+## 💬 Let’s Connect
+
+I’m actively seeking **Software Engineering**, **Full Stack**, or **AI/ML roles** — fresher-level, open to remote or on-site.
+
+- 📧 **Email:** [iqbalmeerajohn1@gmail.com](mailto:iqbalmeerajohn1@gmail.com)
+- 👤 **LinkedIn:** [sheik-iqbal-meera-john-056191253](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
+- 💻 **GitHub:** [Iqbalmeerajohn](https://github.com/Iqbalmeerajohn)
 
 ---
 
 <div align="center">
 
-**"Turning Data Into Insights, Insights Into Action!" 📊✨**
-
-⭐ If you find my projects helpful, don't forget to star them! ⭐
+*"Build things. Ship them. Make them better."*
 
 </div>
