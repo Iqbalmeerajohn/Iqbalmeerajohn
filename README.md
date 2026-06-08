@@ -1,152 +1,77 @@
-<div align="center">
-
 # Sheik Iqbal Meera John
 
-**Software Engineer building AI-powered and data-driven products.**
+**Software Engineer — I build AI-powered, data-driven products end to end, from backend systems to deployed ML.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
-[![GitHub](https://img.shields.io/badge/GitHub-Iqbalmeerajohn-181717?style=flat&logo=github)](https://github.com/Iqbalmeerajohn)
-[![Email](https://img.shields.io/badge/Email-iqbalmeerajohn1%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
+[LinkedIn](https://linkedin.com/in/sheik-iqbal-meera-john-056191253) · [GitHub](https://github.com/Iqbalmeerajohn) · [Email](mailto:iqbalmeerajohn1@gmail.com)
 
-</div>
-
----
-
-## About
-
-I'm a Computer Science (Data Science) graduate from **GITAM University (2026)** who builds full-stack, AI-powered products end to end — from React/Next.js frontends and FastAPI backends to deployed machine learning systems.
-
-My work sits at the intersection of **Software Engineering**, **AI/ML**, and **Product Thinking**. I don't just train models — I build the products around them.
-
-- 🏗️ **Building:** KAFA — a full-stack SaaS cafe platform (React, Next.js, Vercel)
-- 🧠 **Researching:** Speech Emotion Recognition using Federated Learning + Multi-Head Attention (92% accuracy)
-- 📊 **Analysing:** Business intelligence dashboards across churn, diversity, and operations
-- 📍 **Location:** Andhra Pradesh, India &nbsp;|&nbsp; Open to remote & relocation
+📍 Hyderabad / Visakhapatnam, India · Open to remote & relocation
+🎯 Actively seeking **Software Engineer / Full-Stack / AI-ML** roles (fresher)
 
 ---
 
-## 📦 Flagship Project — KAFA Cafe Digital Platform
+## 🚀 Flagship Project — GUMMY OS
 
-> *A real-world cafe platform evolving into a multi-tenant SaaS solution.*
+> A solo-built, memory-first, multi-tenant AI backend — the foundation of a personal "AI operating system."
 
-**KAFA** is a production-deployed cafe platform I designed, built, and shipped — not a college template.
+GUMMY OS is a production-grade backend for a multi-tenant, memory-first AI assistant: every conversation reads from **and** writes to a durable, per-user long-term memory, behind strict, database-enforced tenant isolation. Built with FastAPI + PostgreSQL/pgvector and verified by **200+ automated tests across 8 delivery milestones.**
 
-| Layer | Stack |
-|-------|-------|
-| Frontend | React.js, Next.js, Tailwind CSS |
-| Deployment | Vercel (CI/CD) |
-| Design | Mobile-first, responsive |
+**Implemented capabilities**
+- **Long-term Memory Engine** — categorized, scored memories (importance + confidence), immutable versioning, and recall-based reinforcement.
+- **Semantic Search** — pgvector (HNSW cosine) + Postgres full-text, blended into a hybrid ranking over similarity, importance, recency, and confidence.
+- **Conversation System** — persistent, resume-anywhere threads; each reply grounded in recent history + a rolling summary + retrieved long-term memories within a token budget.
+- **Memory Extraction** — consent-gated pipeline that distills durable facts from chats and stores them through the Memory Engine, with full provenance back to the source conversation.
+- **JWT Authentication** — HS256 token verification at the edge; tenant context published before any database work.
+- **Row-Level Security (RLS)** — fail-closed, database-enforced isolation on every tenant table, under a dedicated non-bypass Postgres role, so isolation can't be bypassed by an app bug. Verified live by a Postgres-gated test suite.
+- **Multi-Tenant Architecture** — multi-tenant from day one; stateless services over a stateful Postgres store for trivial horizontal scale-out; versioned REST API + OpenAPI docs.
 
-**Current Features:**
-- ✅ Responsive website with mobile-first design
-- ✅ Digital menu presentation system
-- ✅ Reservation workflow
-- ✅ Production deployment on Vercel
+**Stack:** Python 3.12 · FastAPI · Pydantic v2 · SQLAlchemy 2.0 (async) · Alembic · PostgreSQL (Supabase) · pgvector · Anthropic Claude · sentence-transformers · pytest · ruff · mypy · Docker
 
-**SaaS Roadmap:**
-- 🔲 QR-based ordering system
-- 🔲 Customer & Admin dashboards
-- 🔲 Analytics and reporting layer
-- 🔲 AI assistant for order recommendations
-- 🔲 Multi-cafe SaaS platform architecture
+> Built first as a personal backend, with a deliberate path toward a multi-user SaaS platform. Multi-agent orchestration and domain agents are the **next phase — not yet implemented.**
 
 ---
 
-## 💻 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frontend & Full Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**AI / Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![librosa](https://img.shields.io/badge/librosa-Audio%20ML-blueviolet?style=flat)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-FA5202?style=flat)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+## 🔭 Current Focus
+- Extending GUMMY OS from its memory + conversation substrate toward an agent framework (orchestrator + domain agents).
+- Deepening backend engineering: async workers, test coverage, and migration discipline.
+- Sharpening DSA fundamentals and shipping deployable full-stack projects.
 
 ---
 
-## 🚀 Projects
+## 📌 Featured Projects
 
-### [KAFA Cafe Digital Platform](https://github.com/Iqbalmeerajohn/kafa-cafe-resto) &nbsp; `Full Stack` `SaaS`
-Production-deployed cafe platform built with React, Next.js, Tailwind CSS, and Vercel. Evolving into a multi-tenant SaaS solution with QR ordering, dashboards, and AI features.
+**GUMMY OS — Multi-Tenant AI Backend** · `Python` `FastAPI` `PostgreSQL` `pgvector` _(private — access on request)_
+Memory-first AI backend: Memory Engine, hybrid semantic search, memory-aware conversations, consent-gated memory extraction, JWT auth, fail-closed Row-Level Security. 200+ tests, 11 Alembic migrations.
 
-### [Speech Emotion Recognition](https://github.com/Iqbalmeerajohn/emotion-recognition-speech) &nbsp; `AI/ML` `Deep Learning` `FastAPI`
-92% accuracy on RAVDESS. Multi-Head Attention + Federated Learning. FastAPI backend + Streamlit frontend. **Top 30 / 350 projects at GITAM tech poster presentation.**
+**[Speech Emotion Recognition](https://github.com/Iqbalmeerajohn/emotion-recognition-speech)** · `AI/ML` `Deep Learning` `FastAPI`
+92% accuracy on RAVDESS via Multi-Head Attention + Federated Learning. FastAPI backend + Streamlit frontend. Top 30 / ~350 at the GITAM 2026 technical poster presentation.
 
-### [Retail Sales Prediction & ML Portfolio](https://github.com/Iqbalmeerajohn/Cong-Data-Science-task) &nbsp; `Machine Learning` `Python`
-End-to-end ML projects: Retail Sales Forecasting (85%+ accuracy), Credit Card Fraud Detection (0.96 ROC-AUC), Cinema EDA on 10K+ records.
+**KAFA — Cinematic Café Platform** · `Next.js` `TypeScript` `Tailwind` _(in development)_
+Premium, mobile-first café & restaurant platform for a real Visakhapatnam venue — Next.js 15, TypeScript, Tailwind CSS, Framer Motion. _(Live demo available on request.)_
 
-### [Analytics Dashboard Portfolio](https://github.com/Iqbalmeerajohn/analytics-dashboard-portfolio) &nbsp; `Power BI` `Business Intelligence`
-Interactive Power BI dashboards for Customer Churn, Diversity & Inclusion, and Call Center Performance — with DAX measures, KPI design, and Power Query ETL.
+**[Retail Sales Prediction & ML Portfolio](https://github.com/Iqbalmeerajohn/Cong-Data-Science-task)** · `Machine Learning` `Python`
+Retail sales forecasting (85%+ accuracy), credit-card fraud detection (0.96 ROC-AUC with SMOTE + XGBoost), EDA on 10K+ records.
 
----
-
-## 🏅 Highlights
-
-- 🧠 **92% accuracy** — Speech Emotion Recognition (Multi-Head Attention + Federated Learning)
-- 🏆 **Top 30 / ~350** — GITAM University Technical Poster Presentation 2026
-- 🔐 **0.96 ROC-AUC** — Credit Card Fraud Detection with SMOTE + XGBoost
-- 🏗️ **Production deployed** — KAFA Cafe Platform live on Vercel
-- 🏢 **J.P. Morgan** Software Engineering Virtual Experience (Forage)
-- ☁️ **AWS** Data Engineering Virtual Internship (EduSkills)
+**[Analytics Dashboard Portfolio](https://github.com/Iqbalmeerajohn/analytics-dashboard-portfolio)** · `Power BI` `Business Intelligence`
+Interactive Power BI dashboards for customer churn, diversity & inclusion, and call-center performance — DAX measures, KPI design, Power Query ETL.
 
 ---
 
-## 📚 Education & Certifications
-
-**B.Tech Computer Science & Engineering (Data Science)**  
-GITAM Deemed University, Visakhapatnam — 2022–2026
-
-| Certification | Issuer |
-|---------------|--------|
-| AWS Data Engineering Virtual Internship | EduSkills |
-| Alteryx Data Analytics & Process Automation | EduSkills |
-| Software Engineering Job Simulation | J.P. Morgan Chase & Co. (Forage) |
-| Python Data Structures | University of Michigan |
+## 🛠️ Skills
+**Languages:** Python · TypeScript · JavaScript · SQL · HTML · CSS
+**Backend:** FastAPI · SQLAlchemy (async) · Alembic · REST APIs · JWT auth · PostgreSQL · pgvector · Row-Level Security
+**Frontend:** React · Next.js · Tailwind CSS
+**AI/ML:** TensorFlow · scikit-learn · sentence-transformers · librosa · XGBoost · Streamlit
+**Data:** Pandas · NumPy · Power BI
+**Tools:** Git · Docker · Vercel · Supabase · Postman · pytest · ruff · mypy
 
 ---
 
-## 💬 Let’s Connect
+## 🎓 Education & Certifications
+**B.Tech, Computer Science & Engineering (Data Science)** — GITAM (Deemed) University, Visakhapatnam · 2022–2026
 
-I’m actively seeking **Software Engineering**, **Full Stack**, or **AI/ML roles** — fresher-level, open to remote or on-site.
-
-- 📧 **Email:** [iqbalmeerajohn1@gmail.com](mailto:iqbalmeerajohn1@gmail.com)
-- 👤 **LinkedIn:** [sheik-iqbal-meera-john-056191253](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
-- 💻 **GitHub:** [Iqbalmeerajohn](https://github.com/Iqbalmeerajohn)
+AWS Data Engineering Virtual Internship (EduSkills) · Alteryx Data Analytics & Process Automation (EduSkills) · Software Engineering Job Simulation (J.P. Morgan / Forage) · Python Data Structures (University of Michigan)
 
 ---
 
-<div align="center">
-
-*"Build things. Ship them. Make them better."*
-
-</div>
+## 📫 Connect
+📧 iqbalmeerajohn1@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/sheik-iqbal-meera-john-056191253) · 💻 [GitHub](https://github.com/Iqbalmeerajohn)
