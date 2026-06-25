@@ -1,229 +1,199 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sheik%20Iqbal%20Meera%20John&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sheik%20Iqbal%20Meera%20John&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Building%20GUMMY%20OS&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iqbalmeerajohn)
-[![KAFA Live](https://img.shields.io/badge/Live%20Project-KAFA%20Cafe-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
-
-![Profile Views](https://komarev.com/ghpvc/?username=iqbalmeerajohn&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Iqbalmeerajohn)
+[![GUMMY OS](https://img.shields.io/badge/GUMMY%20OS-Live%20Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://gummy-os.vercel.app)
+[![KAFA](https://img.shields.io/badge/KAFA%20Cafe-Live%20Demo-10b981?style=flat-square&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=iqbalmeerajohn&color=6366f1&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-```text
-🎓  B.Tech CSE (Data Science) — GITAM University, Visakhapatnam (2022 – 2026)
-📍  Hyderabad / Visakhapatnam, India  ·  Open to remote & relocation
-🚀  Currently building  →  KAFA Cafe Platform  +  GUMMY OS (Personal AI OS)
-🎯  Seeking  →  Software Engineer · AI Engineer · Full-Stack · Backend roles
-💡  I ship real products — from backend APIs to deployed frontends
+I build backend systems and AI products. Currently focused on **GUMMY OS** — a personal, memory-first multi-agent AI operating system built on FastAPI, PostgreSQL with pgvector, and Next.js.
+
+Background in Computer Science (Data Science) from GITAM University. I work across the full stack: async Python backends, vector search, agentic AI pipelines, and deployed React frontends.
+
+Interested in: agentic AI architecture, semantic memory systems, scalable APIs, and production-grade backend engineering.
+
+---
+
+## Currently Building
+
+**[GUMMY OS](https://github.com/Iqbalmeerajohn/GUMMY-OS)** &nbsp;·&nbsp; [Live Demo](https://gummy-os.vercel.app)
+
+A personal AI operating system with persistent long-term memory, semantic search over your history, and a routed multi-agent workforce. Built across 3 phases with 598 passing tests.
+
+```
+Phase 3 complete — M8.5 development freeze (June 2026)
+Next: vector file RAG, web search integration, Phase 4
 ```
 
+`Python 3.12` `FastAPI` `PostgreSQL` `pgvector` `Supabase` `Next.js 16` `Alembic` `Langfuse` `Sentry`
+
 ---
 
-## 🏆 Featured Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### GUMMY OS — Personal AI Operating System
 
-### 🍽️ KAFA Cafe Digital Platform
-> **Production-deployed restaurant platform — live right now**
+> A unified agentic layer that manages personal learning, goals, and knowledge through a coordinated team of specialized AI agents — all backed by persistent, consent-based long-term memory.
 
-🔗 **[→ Live Demo](https://kafa-cafe-resto.vercel.app)**
+- Memory engine with full CRUD and keyword RAG
+- Multi-turn conversations with streaming and auto-summarization
+- Goal tracking, milestone decomposition, file intelligence
+- 5+ specialized agents with a routing layer
+- Fail-closed multi-tenant RLS at the database level
+- Observability: Langfuse, Sentry, PostHog
 
-A real-world, mobile-first restaurant platform built for a live venue. Handles customer experience and restaurant operations end to end.
+[![Repo](https://img.shields.io/badge/Repository-GUMMY--OS-6366f1?style=flat-square&logo=github)](https://github.com/Iqbalmeerajohn/GUMMY-OS)
+[![Demo](https://img.shields.io/badge/Live%20Demo-gummy--os.vercel.app-6366f1?style=flat-square&logo=vercel)](https://gummy-os.vercel.app)
+[![Release](https://img.shields.io/github/v/release/Iqbalmeerajohn/GUMMY-OS?style=flat-square&color=6366f1)](https://github.com/Iqbalmeerajohn/GUMMY-OS/releases)
 
-**✨ Features**
-- Online reservation system
-- Admin dashboard
-- Mobile-first responsive design
-- Production deployed on Vercel
+---
 
-**🛠 Stack**
+### KAFA Cafe Digital Platform
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+> Production-deployed, mobile-first restaurant platform built for a real venue in Visakhapatnam.
 
-</td>
-<td width="50%" valign="top">
+- Online reservation system with real-time availability
+- Admin dashboard for restaurant operations
+- QR-code ready architecture
+- Deployed on Vercel — live in production
 
-### 🧠 GUMMY OS — Personal AI Operating System
-> **An AI that actually remembers you**
+[![Repo](https://img.shields.io/badge/Repository-kafa--cafe--resto-10b981?style=flat-square&logo=github)](https://github.com/Iqbalmeerajohn/kafa-cafe-resto)
+[![Demo](https://img.shields.io/badge/Live%20Demo-kafa--cafe--resto.vercel.app-10b981?style=flat-square&logo=vercel)](https://kafa-cafe-resto.vercel.app)
 
-A personal AI OS that gives an AI assistant genuine long-term memory, semantic search, and context-aware responses that get smarter the more you use it.
+`Next.js` `TypeScript` `React` `Tailwind CSS` `Vercel`
 
-**✨ Core Capabilities**
-- Long-term memory across all conversations
-- Semantic search using meaning, not just keywords
-- Context-aware, personalized responses
-- Research & learning assistance
-- Multi-agent architecture
+---
 
-**🛠 Stack**
+### Speech Emotion Recognition
+
+> Deep learning system for real-time voice emotion detection — Top 30 of 350 at GITAM Poster Presentation 2026.
+
+- Multi-Head Attention architecture on RAVDESS dataset
+- 92% classification accuracy
+- Federated Learning for privacy-preserving inference
+- FastAPI backend + Streamlit inference UI
+
+[![Repo](https://img.shields.io/badge/Repository-emotion--recognition--speech-f59e0b?style=flat-square&logo=github)](https://github.com/Iqbalmeerajohn/emotion-recognition-speech)
+
+`TensorFlow` `Python` `FastAPI` `Streamlit` `Federated Learning`
+
+---
+
+## Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6C63FF?style=flat-square&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Frontend**
 
-### 🎙️ Speech Emotion Recognition
-> **92% Accuracy · Top 30 / 350 @ GITAM Poster Presentation 2026**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Deep learning system that detects human emotion from voice in real time — with privacy preserved through Federated Learning.
-
-**✨ Highlights**
-- Multi-Head Attention architecture
-- Federated Learning (privacy-first)
-- FastAPI backend + Streamlit frontend
-- 92% accuracy on RAVDESS dataset
-
-**🛠 Stack**
+**AI / ML**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Analytics Dashboard Portfolio
-> **Business Intelligence with Power BI**
-
-Interactive dashboards for customer churn, diversity & inclusion, and call-center performance — DAX measures and Power Query ETL.
-
-**🛠 Stack**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 🤖 ML Portfolio — Sales & Fraud Detection
-> **Retail Forecasting + Fraud Detection**
-
-Retail sales forecasting (85%+ accuracy), credit-card fraud detection (0.96 ROC-AUC with SMOTE + XGBoost), EDA on 10K+ records.
-
-**🛠 Stack**
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Database & Cloud**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🛠️ Tech Stack
+**Observability & Tools**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Langfuse](https://img.shields.io/badge/Langfuse-6366f1?style=flat-square&logo=python&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🔭 Currently Exploring
-
-- 🤖 Multi-agent orchestration for GUMMY OS
-- ☕ QR ordering + AI assistant layer for KAFA
-- ⚙️ Async workers, test coverage & backend engineering depth
-- 📐 System design fundamentals for distributed systems
-
----
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqbalmeerajohn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmeerajohn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iqbalmeerajohn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmeerajohn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iqbalmeerajohn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=iqbalmeerajohn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmeerajohn&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmeerajohn&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
+## Philosophy
 
-## 🎓 Education
+I write software to ship, not to accumulate. Every system I build starts with what the user actually needs — clear APIs, predictable behaviour, and tests that catch regressions before they reach production.
 
-| Degree | Institution | Year |
-|--------|------------|------|
-| B.Tech — Computer Science & Engineering (Data Science) | GITAM (Deemed) University, Visakhapatnam | 2022 – 2026 |
+In AI work specifically: I think the value is in the memory layer and the infrastructure around the model, not the model itself. The model is a component; the architecture is the product.
+
+---
+
+## Roadmap
+
+| Area | Currently |
+|---|---|
+| Building | GUMMY OS Phase 4 — vector file RAG, web search agents |
+| Learning | Distributed systems, async job queues, pgvector search optimisation |
+| Exploring | Multi-agent communication protocols, LLM evaluation frameworks |
+
+---
+
+## Education
+
+B.Tech — Computer Science & Engineering (Data Science)
+GITAM (Deemed) University, Visakhapatnam · 2022 – 2026
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
+[![Email](https://img.shields.io/badge/Email-iqbalmeerajohn1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
+[![GUMMY OS](https://img.shields.io/badge/GUMMY%20OS-gummy--os.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://gummy-os.vercel.app)
+[![KAFA](https://img.shields.io/badge/KAFA%20Cafe-kafa--cafe--resto.vercel.app-10b981?style=flat-square&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
 
 ---
 
 <div align="center">
-
-### 💬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
-[![KAFA Live](https://img.shields.io/badge/View%20KAFA%20Live-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
-[![GUMMY OS Demo](https://img.shields.io/badge/GUMMY%20OS%20--%20Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gummy-os.vercel.app)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 </div>
