@@ -13,7 +13,7 @@
 
 ---
 
-## About
+## 👤 About
 
 I build backend systems and AI products. Currently focused on **GUMMY OS** — a personal, memory-first multi-agent AI operating system built on FastAPI, PostgreSQL with pgvector, and Next.js.
 
@@ -23,9 +23,9 @@ Interested in: agentic AI architecture, semantic memory systems, scalable APIs, 
 
 ---
 
-## Currently Building
+## 🔨 Currently Building
 
-**[GUMMY OS](https://github.com/Iqbalmeerajohn/GUMMY-OS)** &nbsp;·&nbsp; [Live Demo](https://gummy-os.vercel.app)
+**[GUMMY OS](https://github.com/Iqbalmeerajohn/GUMMY-OS)** · [Live Demo](https://gummy-os.vercel.app)
 
 A personal AI operating system with persistent long-term memory, semantic search over your history, and a routed multi-agent workforce. Built across 3 phases with 598 passing tests.
 
@@ -38,7 +38,7 @@ Next: vector file RAG, web search integration, Phase 4
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### 🧠 GUMMY OS — Personal AI Operating System
 
@@ -77,7 +77,7 @@ GUMMY OS is a memory-first personal AI operating system that combines persistent
 
 ---
 
-### KAFA Cafe Digital Platform
+### ☕ KAFA Cafe Digital Platform
 
 > Production-deployed, mobile-first restaurant platform built for a real venue in Visakhapatnam.
 
@@ -92,7 +92,7 @@ GUMMY OS is a memory-first personal AI operating system that combines persistent
 
 ---
 
-### Speech Emotion Recognition
+### 🎤 Speech Emotion Recognition
 
 > Deep learning system for real-time voice emotion detection — Top 30 of 350 at GITAM Poster Presentation 2026.
 
@@ -107,7 +107,7 @@ GUMMY OS is a memory-first personal AI operating system that combines persistent
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -146,24 +146,7 @@ GUMMY OS is a memory-first personal AI operating system that combines persistent
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbalmeerajohn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmeerajohn&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalmeerajohn&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmeerajohn&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
-## Philosophy
+## 💭 Philosophy
 
 I write software to ship, not to accumulate. Every system I build starts with what the user actually needs — clear APIs, predictable behaviour, and tests that catch regressions before they reach production.
 
@@ -171,7 +154,7 @@ In AI work specifically: I think the value is in the memory layer and the infras
 
 ---
 
-## Roadmap
+## 🗆 Roadmap
 
 | Area | Currently |
 |---|---|
@@ -181,14 +164,14 @@ In AI work specifically: I think the value is in the memory layer and the infras
 
 ---
 
-## Education
+## 🎓 Education
 
 B.Tech — Computer Science & Engineering (Data Science)
 GITAM (Deemed) University, Visakhapatnam · 2022 – 2026
 
 ---
 
-## Connect
+## 📨 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
 [![Email](https://img.shields.io/badge/Email-iqbalmeerajohn1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
