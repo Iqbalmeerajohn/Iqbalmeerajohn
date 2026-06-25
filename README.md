@@ -183,6 +183,30 @@ Retail sales forecasting (85%+ accuracy), credit-card fraud detection (0.96 ROC-
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iqbalmeerajohn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmeerajohn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=iqbalmeerajohn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmeerajohn&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+
 ## 🎓 Education
 
 | Degree | Institution | Year |
@@ -198,6 +222,7 @@ Retail sales forecasting (85%+ accuracy), credit-card fraud detection (0.96 ROC-
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
 [![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
 [![KAFA Live](https://img.shields.io/badge/View%20KAFA%20Live-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
+[![GUMMY OS Demo](https://img.shields.io/badge/GUMMY%20OS%20--%20Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gummy-os.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
 
