@@ -6,11 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Iqbalmeerajohn)
-[![GUMMY OS](https://img.shields.io/badge/GUMMY%20OS-Live%20Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://gummy-os.vercel.app)
-[![KAFA](https://img.shields.io/badge/KAFA%20Cafe-Live%20Demo-10b981?style=flat-square&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheik-iqbal-meera-john-056191253) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalmeerajohn1@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Iqbalmeerajohn) [![GUMMY OS](https://img.shields.io/badge/GUMMY%20OS-Live%20Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://gummy-os.vercel.app) [![KAFA](https://img.shields.io/badge/KAFA%20Cafe-Live%20Demo-10b981?style=flat-square&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=iqbalmeerajohn&color=6366f1&style=flat-square&label=profile+views)
 
 </div>
@@ -44,20 +40,40 @@ Next: vector file RAG, web search integration, Phase 4
 
 ## Projects
 
-### GUMMY OS — Personal AI Operating System
+### 🧠 GUMMY OS — Personal AI Operating System
 
-> A unified agentic layer that manages personal learning, goals, and knowledge through a coordinated team of specialized AI agents — all backed by persistent, consent-based long-term memory.
+<div align="center">
 
-- Memory engine with full CRUD and keyword RAG
-- Multi-turn conversations with streaming and auto-summarization
-- Goal tracking, milestone decomposition, file intelligence
-- 5+ specialized agents with a routing layer
-- Fail-closed multi-tenant RLS at the database level
-- Observability: Langfuse, Sentry, PostHog
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-gummy--os.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://gummy-os.vercel.app)
 
-[![Repo](https://img.shields.io/badge/Repository-GUMMY--OS-6366f1?style=flat-square&logo=github)](https://github.com/Iqbalmeerajohn/GUMMY-OS)
-[![Demo](https://img.shields.io/badge/Live%20Demo-gummy--os.vercel.app-6366f1?style=flat-square&logo=vercel)](https://gummy-os.vercel.app)
-[![Release](https://img.shields.io/github/v/release/Iqbalmeerajohn/GUMMY-OS?style=flat-square&color=6366f1)](https://github.com/Iqbalmeerajohn/GUMMY-OS/releases)
+</div>
+
+GUMMY OS is a memory-first personal AI operating system that combines persistent memory, semantic retrieval, conversational context, and modular AI agents to provide personalized AI experiences. It is designed with a scalable architecture that evolves from a personal AI assistant into a collaborative AI platform.
+
+**Core Capabilities**
+
+- Persistent long-term memory
+- Semantic memory retrieval using pgvector
+- Context-aware conversations
+- Memory CRUD and versioning
+- Multi-agent architecture foundation
+- FastAPI backend with REST APIs
+- Secure authentication with Supabase
+- Scalable architecture for future workflow automation
+
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-6366f1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repository-GUMMY--OS-6366f1?style=flat-square&logo=github)](https://github.com/Iqbalmeerajohn/GUMMY-OS) [![Demo](https://img.shields.io/badge/Live%20Demo-gummy--os.vercel.app-6366f1?style=flat-square&logo=vercel)](https://gummy-os.vercel.app)
 
 ---
 
@@ -70,8 +86,7 @@ Next: vector file RAG, web search integration, Phase 4
 - QR-code ready architecture
 - Deployed on Vercel — live in production
 
-[![Repo](https://img.shields.io/badge/Repository-kafa--cafe--resto-10b981?style=flat-square&logo=github)](https://github.com/Iqbalmeerajohn/kafa-cafe-resto)
-[![Demo](https://img.shields.io/badge/Live%20Demo-kafa--cafe--resto.vercel.app-10b981?style=flat-square&logo=vercel)](https://kafa-cafe-resto.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-kafa--cafe--resto-10b981?style=flat-square&logo=github)](https://github.com/Iqbalmeerajohn/kafa-cafe-resto) [![Demo](https://img.shields.io/badge/Live%20Demo-kafa--cafe--resto.vercel.app-10b981?style=flat-square&logo=vercel)](https://kafa-cafe-resto.vercel.app)
 
 `Next.js` `TypeScript` `React` `Tailwind CSS` `Vercel`
 
@@ -95,14 +110,12 @@ Next: vector file RAG, web search integration, Phase 4
 ## Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6C63FF?style=flat-square&logo=python&logoColor=white)
@@ -110,26 +123,22 @@ Next: vector file RAG, web search integration, Phase 4
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Frontend**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **AI / ML**
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Database & Cloud**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Observability & Tools**
-
 ![Langfuse](https://img.shields.io/badge/Langfuse-6366f1?style=flat-square&logo=python&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -140,22 +149,16 @@ Next: vector file RAG, web search integration, Phase 4
 ## GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iqbalmeerajohn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmeerajohn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalmeerajohn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmeerajohn&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=iqbalmeerajohn&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalmeerajohn&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmeerajohn&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmeerajohn&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -193,7 +196,3 @@ GITAM (Deemed) University, Visakhapatnam · 2022 – 2026
 [![KAFA](https://img.shields.io/badge/KAFA%20Cafe-kafa--cafe--resto.vercel.app-10b981?style=flat-square&logo=vercel&logoColor=white)](https://kafa-cafe-resto.vercel.app)
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
-</div>
