@@ -79,11 +79,11 @@ It learns from conversations, stores memories in PostgreSQL with pgvector, and r
 
 A LangChain agent on Gemini decides when to run visual search, applies filters, and explains each match with similarity sub-scores. Tiled multi-crop embeddings and attribute reranking handle fine-grained patterns.
 
-| Images | Designs | CI tests | Search |
-|:---:|:---:|:---:|:---:|
-| **1,059** | **645** | **85** | FAISS exact cosine |
+| Images | Designs | CI tests |
+|:---:|:---:|:---:|
+| **1,059** | **645** | **85** |
 
-`FashionSigLIP` `FAISS` `LangChain` `Gemini` `Streamlit` `GitHub Actions`
+`FashionSigLIP` `FAISS exact cosine` `LangChain` `Gemini` `Streamlit` `GitHub Actions`
 
 [**Live app**](https://saree-visual-similarity-search.streamlit.app/) · [Code](https://github.com/Iqbalmeerajohn/saree-visual-similarity-search)
 
@@ -98,9 +98,11 @@ A LangChain agent on Gemini decides when to run visual search, applies filters, 
 
 When a payment fails, SALVAGE decides who deserves a retry, prices the nudge, and measures lift against a real control group. The LLM only proposes; a pure, tested policy function owns every rupee.
 
-| Agent loop | Tests | Property inputs | Execution |
-|:---:|:---:|:---:|:---:|
-| **9** stages | **27** | **~20,000** | exactly-once + hash-chained audit |
+| Agent loop | Tests | Property inputs |
+|:---:|:---:|:---:|
+| **9** stages | **27** | **~20,000** |
+
+Exactly-once execution and a hash-chained audit log.
 
 `FastAPI` `Gemini` `Razorpay test mode` `SQLite` `Next.js`
 
@@ -111,9 +113,13 @@ When a payment fails, SALVAGE decides who deserves a retry, prices the nudge, an
 
 ```
 payment.failed
-  → OBSERVE  → REASON (LLM) → PLAN (LLM)
-  → POLICY GATE   pure function, owns the money
-  → APPROVAL → EXECUTE → VERIFY → AUDIT → RECOVER
+→ observe → reason → plan
+→ POLICY GATE
+  (pure function,
+   owns the money)
+→ approve → execute
+→ verify → audit
+→ recover
 ```
 <sub>The model can suggest. It can never move more money than the merchant's caps allow.</sub>
 
@@ -124,10 +130,14 @@ payment.failed
 <td width="50%" valign="top">
 
 ```
-audio → MFCC (120 coefficients × 94 frames)
-      → multi-head attention → 8 emotions
-trained with federated learning (FedAvg):
-raw audio never leaves its client
+audio
+→ MFCC: 120 coeffs × 94 frames
+→ multi-head attention
+→ 8 emotions
+
+trained with FedAvg:
+raw audio never leaves
+its client
 ```
 
 </td>
