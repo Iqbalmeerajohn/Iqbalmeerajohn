@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,55:14203f,100:f2b134&height=210&section=header&text=Sheik%20Iqbal%20Meera%20John&fontSize=44&fontColor=ece8dc&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Visakhapatnam&descAlignY=57&descSize=17" width="100%"/>
+<img src="assets/header.svg" alt="Sheik Iqbal Meera John, AI Engineer and Full-Stack Developer, Visakhapatnam" width="100%"/>
 
 ### I build AI that **remembers**, **sees**, and knows when to say no.
 
