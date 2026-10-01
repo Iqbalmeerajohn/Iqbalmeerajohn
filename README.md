@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,55:14203f,100:f2b134&height=210&section=header&text=Sheik%20Iqbal%20Meera%20John&fontSize=44&fontColor=ece8dc&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Visakhapatnam&descAlignY=57&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,55:14203f,100:f2b134&height=210&section=header&text=Sheik%20Iqbal%20Meera%20John&fontSize=44&fontColor=ece8dc&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Visakhapatnam&descAlignY=57&descSize=17" width="100%"/>
 
-<a href="https://iqbalmeerajohn.github.io/portfolio/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=F2B134&center=true&vCenter=true&width=640&lines=I+build+AI+that+remembers%2C+sees%2C+and+knows+when+to+say+no.;Memory-first+AI+%C2%B7+visual+search+agents+%C2%B7+payment+agents;Shipped+with+tests+you+can+run." alt="I build AI that remembers, sees, and knows when to say no."/></a>
+### I build AI that **remembers**, **sees**, and knows when to say no.
+
+<sub>Memory-first AI · visual search agents · payment agents · shipped with tests you can run</sub>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iqbalmeerajohn.github.io-f2b134?style=for-the-badge&logo=googlechrome&logoColor=070b16&labelColor=ece8dc)](https://iqbalmeerajohn.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheik-iqbal-meera-john-056191253/)
