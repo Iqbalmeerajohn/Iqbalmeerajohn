@@ -32,7 +32,7 @@ I build AI products and the backend systems under them: memory layers, vector se
 
 <div align="center">
 
-| 1,016 | 1,059 | ~20,000 | 92% | Top 30 / ~350 |
+| 1,216 | 1,059 | ~20,000 | 92% | Top 30 / ~350 |
 |:---:|:---:|:---:|:---:|:---:|
 | backend tests passing in GUMMY OS | saree images indexed for visual search | randomized inputs proving SALVAGE never overspends | speech emotion accuracy on RAVDESS | GITAM tech poster presentation 2026 |
 
@@ -53,16 +53,16 @@ It learns from conversations, stores memories in PostgreSQL with pgvector, and r
 
 | Backend tests | API endpoints | Migrations | Agents | Tools |
 |:---:|:---:|:---:|:---:|:---:|
-| **1,016** | **73** across 15 routers | **25** | **6** specialists | **9** |
+| **1,216** | **73** across 15 routers | **25** | **6** routed + general + recall | **17** |
 
 `FastAPI` `SQLAlchemy async` `PostgreSQL` `pgvector` `Alembic` `Ollama` `Langfuse` `Next.js 16` `Docker`
 
-[**Live demo**](https://gummy-os.vercel.app) · [Code](https://github.com/Iqbalmeerajohn/GUMMY-OS)
+[**Watch it work (24s)**](https://github.com/Iqbalmeerajohn/GUMMY-OS/raw/2716be98830e/docs/media/gummy-os.mp4) · [Code](https://github.com/Iqbalmeerajohn/GUMMY-OS)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://gummy-os.vercel.app"><img src="https://iqbalmeerajohn.github.io/portfolio/assets/gummy.webp" alt="GUMMY OS landing page" width="100%"/></a>
+<a href="https://github.com/Iqbalmeerajohn/GUMMY-OS/raw/2716be98830e/docs/media/gummy-os.mp4"><img src="https://github.com/Iqbalmeerajohn/GUMMY-OS/raw/2716be98830e/docs/media/gummy-os-poster.jpg" alt="GUMMY OS answering a question from a local document, citing Resume.pdf page 1" width="100%"/></a>
 
 </td>
 </tr>
